@@ -1,5 +1,7 @@
 #include <stdio.h>
- 
+ //Se programo el 5 de marzo
+ //Por la Brigada 1
+
 int main()
 {
  
