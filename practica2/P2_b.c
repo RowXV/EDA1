@@ -1,4 +1,4 @@
-// Creado el 13 de Marzo por Brigada 1
+// Creado el 13 de Marzo del 2021 por Brigada 1
 
 #include<stdio.h>
 #include<stdlib.h> // Para usar malloc
