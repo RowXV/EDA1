@@ -27,14 +27,4 @@ int main()
     
     
     return 0;
-
-    /*
-        en el inciso a se imprime la direccion de memoria del tercer valor del arreglo ya que se esta apuntando a ese elemento del arreglo
-        por esta razon al imprimir el valor del puntero en 0, muestra el valor del elemento en el tercer lugar del arreglo
-        De esta manera se puede ver que al asignarle el puntero ese valor del arreglo, este empieza su propia cuenta en 0 desde ese elemento
-        por eso su capacidad maxima de mostrar el valor es hasta el 7 que es el ultimo elemento del arreglo de 10
-        La direccion de memoria a la que apunta *ptr es la direccion de memoria del tercer elemento de arreglo
-
-
-    */
 }
