@@ -1,4 +1,7 @@
 #include <stdio.h>
+//Se programo el 15 de marzo del 2021
+//Por la Brigada 1
+
 
 int main()
 {
