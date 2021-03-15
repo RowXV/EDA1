@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-// Creado el 5 de marzo
+// Creado el 5 de marzo del 2021
 // Creado por la Brigada 1
 
 void mostrarArreglo(char *arreglo);
