@@ -1,3 +1,5 @@
+// Creado el 13 de Marzo por Brigada 1
+
 #include<stdio.h>
 #include<stdlib.h> // Para usar malloc
 
