@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Realizado el 23/06/2021
+//Realizado por la brigada 1
+
+
 int main(int argc, char** argv)
 {
     lista *l1, l2;
