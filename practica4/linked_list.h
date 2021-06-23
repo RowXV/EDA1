@@ -3,6 +3,11 @@
 
 #include <stdbool.h>
 
+//Realizado el 23/06/2021
+//Realizado por la brigada 1
+
+
+
 typedef struct _nodo nodo;
 typedef int INFO;
 
