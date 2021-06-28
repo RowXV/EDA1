@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include"ejercicio3.h"
 
+// Hecho el 27 de Junio de 2021 por la brigada 1
+
 /* 
 Ejercicio 3. En la funcion insertar se pasan los parametros (cola, elemento a ingresar, prioridad)
 Donde solo hay 3 prioridades, donde el 3 es la mas importante y el 1 el menos importante
